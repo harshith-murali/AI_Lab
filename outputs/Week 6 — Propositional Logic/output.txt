@@ -1,0 +1,16 @@
+Harshith M : 1BM24CS113
+Enter number of propositions: 2
+Enter proposition names: P Q
+Enter number of KB sentences: 2
+Enter KB sentence 1: P >> Q
+Enter KB sentence 2: P
+Enter query: Q
+
+Truth Table:
+P	Q	KB	Query
+0	0	0	0
+0	1	0	1
+1	0	0	0
+1	1	1	1
+
+KB entails Query: True

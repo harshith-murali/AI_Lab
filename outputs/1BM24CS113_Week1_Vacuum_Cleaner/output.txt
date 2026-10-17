@@ -1,0 +1,14 @@
+Harshith M : 1BM24CS113
+Enter starting location (A/B): A
+Enter status of A (Clean/Dirty): Dirty
+Enter status of B (Clean/Dirty): Dirty
+
+--- Simple Reflex Agent ---
+Location: A Status: Dirty Action: Suck
+Location: A Status: Clean Action: Move Right
+Location: B Status: Dirty Action: Suck
+Both rooms are clean!
+
+--- Goal-Based Agent ---
+Location: A Status: Clean Action: Move Right
+Location: B Status: Clean Action: Goal Reached
